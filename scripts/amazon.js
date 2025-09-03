@@ -78,6 +78,8 @@ document.querySelectorAll('.js-add-to-cart')
            });
            }
 
+           cart.forEach
+
            console.log(cart);
                       
         });
