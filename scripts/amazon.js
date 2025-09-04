@@ -1,3 +1,5 @@
+import {cart} from '../data/cart.js';
+
 let productsHTML = '';
 
 products.forEach((product) => {
@@ -32,7 +34,7 @@ products.forEach((product) => {
           <option value="4">4</option>
           <option value="5">5</option>
           <option value="6">6</option>
-          <option value="7">.toFixed(2)7</option>
+          <option value="7">7</option>
           <option value="8">8</option>
           <option value="9">9</option>
           <option value="10">10</option>
